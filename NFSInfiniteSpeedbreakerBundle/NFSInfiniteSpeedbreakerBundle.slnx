@@ -1,0 +1,9 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="NFSCInfiniteSpeedbreaker/NFSCInfiniteSpeedbreaker.vcxproj" Id="87e6c0b9-09cd-4245-992b-c29cae86a215" />
+  <Project Path="NFSMWInfiniteSpeedbreaker/NFSMWInfiniteSpeedbreaker.vcxproj" Id="3f410ae8-50a1-42ef-941a-6608bd3ffbeb" />
+  <Project Path="NFSUCInfiniteSpeedbreaker/NFSUCInfiniteSpeedbreaker.vcxproj" Id="2745bfb8-02cf-4223-a3a4-7df1b5fb077d" />
+</Solution>
