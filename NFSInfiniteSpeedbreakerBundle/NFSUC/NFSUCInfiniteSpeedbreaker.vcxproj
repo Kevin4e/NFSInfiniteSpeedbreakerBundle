@@ -22,7 +22,7 @@
     <VCProjectVersion>18.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
     <ProjectGuid>{2745bfb8-02cf-4223-a3a4-7df1b5fb077d}</ProjectGuid>
-    <RootNamespace>NFSUCInfiniteSpeedbreaker</RootNamespace>
+    <RootNamespace>NFSUC</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
